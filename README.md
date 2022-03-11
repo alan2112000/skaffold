@@ -1,5 +1,6 @@
 <!-- github does not support `width` with markdown images-->
 <img src="logo/skaffold.png" width="220">
+test
 
 ---------------------
 
@@ -45,9 +46,9 @@ Or, check out our [Github Releases](https://github.com/GoogleContainerTools/skaf
 
 For a managed experience of Skaffold you can install the Google `Cloud Code` extensions:
 - for [Visual Studio Code](https://cloud.google.com/code/docs/vscode/quickstart-k8s#installing)
-- for [JetBrains IDEs](https://cloud.google.com/code/docs/intellij/quickstart-k8s#installing_the_plugin). 
+- for [JetBrains IDEs](https://cloud.google.com/code/docs/intellij/quickstart-k8s#installing_the_plugin).
 
-It can manage and keep Skaffold  up-to-date while providing a more guided startup experience, along with providing and managing other common dependencies, and works with any kubernetes cluster. 
+It can manage and keep Skaffold  up-to-date while providing a more guided startup experience, along with providing and managing other common dependencies, and works with any kubernetes cluster.
 
 ## Contributing to Skaffold
 
@@ -74,7 +75,7 @@ Your feedback is very valuable to us! We have an anonymous user feedback survey 
 
 Survey Link - https://forms.gle/BMTbGQXLWSdn7vEs6
 
-## Support 
+## Support
 
 Skaffold is generally available and considered production ready.
 Detailed feature maturity information and how we deprecate features are described in our [Deprecation Policy](https://skaffold.dev/docs/references/deprecation).
